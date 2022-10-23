@@ -12,7 +12,7 @@ The client was The Gaming Room. They had a game on Android platform called “Dr
 
 This repository is composed of prewritten prototype code for user log in credential authorization and Base game general software design. One thing I did really well was writing out the executive summary and the design constraints as I had a very good understanding of the task The Gaming Room was asking for.
 
-The given UML Diagram in particular helped me a lot in writing out the code. Figuring out the different classes, methods, encapsulation status and inheritance became easy because of this.
+The given UML Diagram in particular helped me a lot in writing out the code. Figuring out the different classes, methods, encapsulation status and inheritance became easy because of this. Although I finished fixing the #FIXMEs in the Game App, It is still unfinished as it needs to be integrated to the web and a UI customized for each separate platform.
 
 I would like to revise and put more specific recommendations for the distributed systems and networks. I feel like I did not elaborate the specific details of that part. I would improve it by mentioning some procedures with recommendations of a provider after careful review. Another thing that I didn't feel confident about was filling up the code for the REST API as the code base was relatively large and some parts I couldn't even understand.
 
